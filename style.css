@@ -1,0 +1,181 @@
+p
+{
+    color: white;
+    font-family: Montserrat;
+}
+h1
+{
+    text-align: center;
+    font-family: Montserrat;
+
+}
+h2 {
+    color : red;
+    font-family: Montserrat;
+    text-decoration: red underline
+}
+
+img {
+  width: 200 px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translate(70%, 0%);
+}
+
+div.trait_dessus
+{ 
+height: 5pt;
+margin-left: auto;
+margin-right: auto;
+width : 1000px;
+} 
+
+#body1{ 
+    width: 60%;
+    height: 4500px;
+    background-color: rgb(0, 0, 0, .7);
+
+    margin-left: auto;
+margin-right: auto;
+
+}
+
+title 
+{
+    color : white;
+}
+
+
+div.death_parade {
+  position: absolute;
+  top: 400px;
+  right: 930px;
+  width: 420px;
+  font-size: x-large;
+}
+ 
+div.death_parade_text {
+  position: absolute;
+  top: 500px;
+  right: 950px;
+  width: 420px;
+  font-size: medium;
+}
+
+
+
+
+ div.mushoku {
+  position: absolute;
+  top: 1100px;
+  right: 950px;
+  width: 420px;
+  font-size: x-large;
+}
+div.mushoku_text {
+  position: absolute;
+  top: 1200px;
+  right: 950px;
+  width: 420px;
+  font-size: medium;
+}
+
+
+
+
+
+
+div.Tate_No_Yuusha {
+  position: absolute;
+  top: 1800px;
+  right: 950px;
+  width: 480px;
+  font-size: x-large;
+}
+
+div.Tate_No_Yuusha_text {
+  position: absolute;
+  top: 1950px;
+  right: 950px;
+  width: 420px;
+  font-size: medium;
+}
+
+
+
+
+div.Vinland {
+  position: absolute;
+  top: 2600px;
+  right: 950px;
+  width: 420px;
+  font-size: x-large;
+}
+
+div.Vinland_text {
+  position: absolute;
+  top: 2700px;
+  right: 950px;
+  width: 420px;
+  font-size: medium;
+}
+
+
+div.Made_in_Abyss {
+  position: absolute;
+  top: 3250px;
+  right: 950px;
+  width: 420px;
+  font-size: x-large;
+}
+
+div.Made_in_Abyss_text {
+  position: absolute;
+  top: 3350px;
+  right: 950px;
+  width: 420px;
+  font-size: medium;
+}
+
+
+
+
+#menu-items > ul > li , #menu > div{
+    display: inline-block !important;
+    margin-left: 70px
+}
+
+#menu a{
+    text-decoration: none;
+    color: white;
+    margin-right: 105px;
+    opacity: 10;
+    
+}
+
+#menu{
+    background-color: black;
+   position: fixed;
+   top : 0px ;
+   width: 100%;
+   z-index: 20;
+   margin-left: -8px;
+    font-family: impact;
+}
+
+ #menu div:first-child{ 
+     margin: 20px;
+      font-family: impact;
+ }
+
+
+
+a{
+    color: lightblue;
+}
+
+
+
+
+
